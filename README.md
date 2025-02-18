@@ -2,7 +2,6 @@
 - 👀 I’m interested in Music Engineering and Music Production
 - 🌱 I’m currently learning Software Engineering & Development
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 - ⚡ Fun fact: IM ALSO GOOD WHEN IT COMES MUSIC
 
 <!---
